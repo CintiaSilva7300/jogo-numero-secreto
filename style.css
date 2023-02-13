@@ -60,3 +60,10 @@ h3 {
     height: 50px;
     width: 80%;
 }
+
+.fixarRodape {
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+}
